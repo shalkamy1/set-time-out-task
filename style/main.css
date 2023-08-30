@@ -1,0 +1,53 @@
+.inputs{
+    display: flex;
+
+}
+.content{
+    width: 400px;
+    height: 400px;
+    background: transparent;
+    color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .item{
+    width:97%;
+    background-color: transparent;
+    height: 200px;
+    position: absolute;
+    bottom: 180px;
+    color: transparent;
+    font-size: larger;
+    transition: all 2s;
+}
+.data{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    /* position: absolute; */
+    /* right: 0; */
